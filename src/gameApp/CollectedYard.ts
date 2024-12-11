@@ -1,6 +1,6 @@
-import {BaseUI} from "../Base/BaseUI";
+import {BaseUI} from "./Base/BaseUI";
 import {Container, Graphics, Point, Text} from "pixi.js";
-import {YardColor} from "../GameConfig";
+import {YardColor} from "./GameConfig";
 
 export type YardData = {
     width: number;

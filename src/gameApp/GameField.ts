@@ -4,7 +4,7 @@ import {AnimalColor, AnimalRadius, GameFieldColor, HeroColor, HeroMoving, HeroRa
 import {MainHero} from "./MainHero";
 import {SpawnGenerator} from "./utils/SpawnGenerator";
 import {Animal} from "./Animal";
-import {CollectedYard} from "./utils/CollectedYard";
+import {CollectedYard} from "./CollectedYard";
 
 type RectangleData = {
     width: number;
